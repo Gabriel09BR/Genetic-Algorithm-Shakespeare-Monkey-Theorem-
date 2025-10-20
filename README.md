@@ -52,6 +52,7 @@
   python monkey_theorem.py
   
   ----- Example Output
+  
   Generation 0: Evgmzstji pxt!wzc
   Generation 27: To bq or nol to bz
   Generation 36: To be or not to be
