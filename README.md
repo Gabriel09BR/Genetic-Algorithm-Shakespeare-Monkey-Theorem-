@@ -8,6 +8,7 @@
   A population of random strings (chromosomes) evolves over generations through selection, crossover, and mutation until it perfectly matches a target sentence (for example: "To be or not to be").
 
   This concept is commonly known as the Shakespeare Monkey Problem, and it beautifully illustrates how randomness, guided by selection pressure, can lead to order and intelligent results over time.
+  
 
 ⚙️ How It Works
 
@@ -28,6 +29,7 @@
   
   Termination
     The algorithm repeats until an individual exactly matches the target phrase or a maximum number of generations is reached.
+    
 
 
 ▶️ Running the Project
@@ -70,6 +72,7 @@ Genetic algorithms
 Natural selection concepts
 
 Evolutionary computation principles
+
 
 👨‍💻 Author
 
